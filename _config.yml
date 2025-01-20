@@ -21,7 +21,7 @@ repository               : "charlotte-mouravieff/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "charlotte.jpg"
   name             : "Charlotte Mouravieff"
   pronouns         : # example: "she/her"  
   bio              : "Chargée de recherche CNRS, Laboratoire CSE, Collège de France"
