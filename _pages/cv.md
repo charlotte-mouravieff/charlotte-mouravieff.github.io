@@ -7,26 +7,32 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D, Mines Paris - PSL, 2020
-* M.S., ECPM, 2017
+- **Ph.D in Engineering**, Mines Paris - PSL, 2020
+- **M.S. in Chemical Engineering**, ECPM, 2017
 
-Work experience
-======
-* Jan 2025 - Present: Chargée de recherche CNRS
-  * Laboratoire de Chimie du Solide et de l'Énergie, Collège de France, Paris, France
-  * Supervisor: Professor Jean-Marie Tarascon
+## Work Experience
 
-* Jan 2023 - Jan 2025: Chercheur postdoctoral
-  * Laboratory for Energy Storage and Conversion, University of California San Diego
-  * Supervisor: Professor Shirley Meng
+### **Chargée de Recherche CNRS**
+**Laboratoire de Chimie du Solide et de l'Énergie, Collège de France, Paris, France**  
+*Jan 2025 - Present*  
+- Supervisor: Professor Jean-Marie Tarascon  
+- Focus on advanced materials for energy storage applications.
 
-* Oct 2020 - Dec 2022: Chercheur postdoctoral
-  * Collège de France
-  * Supervisor: Professor Jean-Marie Tarascon
+### **Postdoctoral Researcher**
+**Laboratory for Energy Storage and Conversion, University of California San Diego**  
+*Jan 2023 - Jan 2025*  
+- Supervisor: Professor Shirley Meng  
+- Conducted research on lithium-ion battery technology.
 
-* Oct 2017 - Sep 2020: Doctorante - PhD student
-  * Safran
+### **Postdoctoral Researcher**
+**Collège de France**  
+*Oct 2020 - Dec 2022*  
+- Supervisor: Professor Jean-Marie Tarascon  
+- Researched solid-state battery materials and electrochemical storage mechanisms.
+
+### **PhD Student - Doctorante**
+**Safran**  
+*Oct 2017 - Sep 2020*  
+- Developed expertise in aerospace applications of energy storage systems.
