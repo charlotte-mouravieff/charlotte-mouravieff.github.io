@@ -28,6 +28,8 @@ Work experience
   * Collège de France
   * Supervisor: Professor Jean-Marie Tarascon
 
+* Oct 2017 - Sep 2020: Doctorante - PhD student
+  * Safran
 
 Publications
 ======
