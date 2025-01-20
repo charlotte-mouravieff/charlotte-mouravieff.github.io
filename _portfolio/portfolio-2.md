@@ -1,6 +1,6 @@
 ---
 title: "Operando Stress Monitoring in Lithium-Based Batteries"
-excerpt: "Exploring the use of optical sensors for real-time stress analysis in battery systems.<br/><img src='/images/battery-research.png'>"
+excerpt: "Exploring the use of optical sensors for real-time stress analysis in battery systems.<br/><img src='/images/operando_stress_monitoring.png'>"
 collection: portfolio
 ---
 
