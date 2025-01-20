@@ -1,6 +1,6 @@
 ---
 title: "Unlocking Cell Chemistry Evolution with Operando Fibre Optic Infrared Spectroscopy"
-excerpt: "Groundbreaking research on monitoring cell chemistry in Na(Li)-ion batteries using operando fiber optic IR spectroscopy.<br/><img src='/images/battery-innovation.png'>"
+excerpt: "Groundbreaking research on monitoring cell chemistry in Na(Li)-ion batteries using operando fiber optic IR spectroscopy.<br/><img src='/images/Unlocking_cell_chemistry.png'>"
 collection: portfolio
 ---
 
