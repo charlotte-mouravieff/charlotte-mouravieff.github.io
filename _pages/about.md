@@ -8,21 +8,21 @@ redirect_from:
 ---
 
 ## 🧪 Research Focus
-As a researcher in **energy storage systems**, my expertise lies in the **physicochemical characterization** of these complex systems. I leverage cutting-edge **optical sensor technology** to probe and elucidate the intricate chemical phenomena occurring within batteries.
+As a researcher specializing in **energy storage systems**, I delve into the **physicochemical characterization** of battery technologies. My work integrates state-of-the-art **optical sensor technology** to uncover and understand the complex chemical interactions within battery cells.
 
 ## 🏛️ Professional Role
-I am proud to serve as a **CNRS Research Scientist** at the **Solid State and Energy Chemistry Lab** at *Collège de France*. My primary research endeavors are aimed at refining diagnostic techniques for energy storage technologies, which are pivotal in the development of batteries that are not only more efficient but also significantly more durable.
+I hold a position as a **CNRS Research Scientist** at the **Laboratory of Solid State and Energy Chemistry** at the *Collège de France*. My research focuses on developing advanced diagnostic tools for energy storage systems, aiming to enhance the efficiency and longevity of batteries.
 
-## 🔋 Highlighted Projects
+## 🔋 Key Projects
 ### INFRALYTICS
-Leading the charge in this ERC-funded initiative, I spearhead the integration of **Evanescent Wave Infrared Fiber Optic Spectroscopy** into commercial battery systems. This avant-garde technology is designed to provide unprecedented insights into the complex chemical dynamics that critically influence battery life and performance, potentially revolutionizing our understanding and management of these vital systems.
+In this ERC-funded project, I lead efforts to embed **Evanescent Wave Infrared Fiber Optic Spectroscopy** into commercial battery systems. This cutting-edge technique provides deep insights into the chemical dynamics at play, offering the potential to fundamentally change how we understand and manage battery technology.
 
 ## 🏆 Publications and Contributions
-My contributions to the field have been recognized in high-caliber scientific journals such as **Nature Communications** and **Energy & Environmental Science**. These publications underscore my significant contributions to advancing our understanding of battery chemistry and enhancing energy storage technologies.
+I have published extensively in esteemed journals such as **Nature Communications** and **Energy & Environmental Science**, reflecting my significant contributions to the science of battery technology and energy storage solutions.
 
 ### Further Exploration
-For a deeper dive into my research methodologies and project outcomes, I invite interested parties to peruse my detailed portfolio entries.
+Visit my detailed portfolio entries for an in-depth look at my research methodologies and project results.
 
 ---
 
-Explore more about my journey and contributions to science by visiting [My Professional Portfolio](https://charlotte-mouravieff.github.io/portfolio/).
+Discover more about my professional journey and contributions to the advancement of science on [My Professional Portfolio](https://charlotte-mouravieff.github.io/portfolio/).
