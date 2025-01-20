@@ -30,7 +30,3 @@ Work experience
 
 * Oct 2017 - Sep 2020: Doctorante - PhD student
   * Safran
-
-Publications
-======
-  Coming soon...
